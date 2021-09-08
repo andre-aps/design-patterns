@@ -1,4 +1,4 @@
-package br.com.alura.loja.orcamento.imposto;
+package br.com.alura.loja.imposto;
 
 import java.math.BigDecimal;
 
