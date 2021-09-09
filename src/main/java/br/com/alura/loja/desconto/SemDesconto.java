@@ -10,8 +10,14 @@ public class SemDesconto extends Desconto {
 		super(null);
 	}
 
-	public BigDecimal calcula(Orcamento orcamento) {
-		return BigDecimal.ZERO;
+	@Override
+	public Boolean deveAplicar(Orcamento orcamento) {
+		return true;
 	}
 	
+	@Override
+	public BigDecimal efetuaCalculo(Orcamento orcamento) {
+		return BigDecimal.ZERO;
+	}
+
 }
