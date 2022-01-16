@@ -15,6 +15,7 @@
         <module>chain-of-responsability</module>
         <module>template-method</module>
         <module>state</module>
+        <module>Command</module>
     </modules>
 
     <name>loja</name>
