@@ -16,6 +16,7 @@
         <module>template-method</module>
         <module>state</module>
         <module>Command</module>
+        <module>observer</module>
     </modules>
 
     <name>loja</name>
