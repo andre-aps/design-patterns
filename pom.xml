@@ -15,11 +15,10 @@
         <module>chain-of-responsability</module>
         <module>template-method</module>
         <module>state</module>
-        <module>Command</module>
-        <module>observer</module>
+        <module>command</module>
     </modules>
 
-    <name>loja</name>
+    <name>store</name>
     <description>Design Patterns</description>
 
     <properties>

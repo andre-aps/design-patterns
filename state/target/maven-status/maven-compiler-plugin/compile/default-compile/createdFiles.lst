@@ -1,0 +1,17 @@
+store\budget\situation\Finished.class
+store\budget\Budget.class
+store\budget\situation\Disapproved.class
+store\budget\situation\Approved.class
+store\tax\Tax.class
+store\budget\situation\BudgetSituation.class
+store\discount\BudgetDiscountAmountGreaterThanFiveHundred.class
+store\discount\BudgetDiscountGreaterThanFiveItems.class
+store\discount\DiscountCalculator.class
+store\budget\Budget$BudgetBuilder.class
+store\discount\Discount.class
+store\tax\Iss.class
+store\budget\situation\UnderAnalysis.class
+store\budget\exception\SituationException.class
+store\tax\TaxCalculator.class
+store\discount\NoDiscount.class
+store\tax\Icms.class
